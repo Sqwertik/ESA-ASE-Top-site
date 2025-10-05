@@ -61,7 +61,6 @@ header {
     justify-content: space-between;
     align-items: center;
     gap: 20px;
-    border: 1px solid green;
     width: 60%;
 }
 
@@ -83,6 +82,7 @@ header {
     border-radius: 10px;
     background-color: #EA7223;
     transition: all 300ms ease;
+    border: none;
 }
 
 
